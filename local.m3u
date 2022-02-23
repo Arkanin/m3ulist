@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:0,Radio SWR3
+https://f141.rndfnk.com/ard/swr/swr3/live/aac/96/stream.aac?sid=25WEJMZB7xYZSEfOPL1jV7nN8HY&token=WzaTUWlUuMcSfzcRKaL54xONrD-G6mW3ocMPImZucFg&tvf=1EXKnmKL1hZmMTQxLnJuZGZuay5jb20
+
+#EXTINF:1,Radio Bremen4
+https://d141.rndfnk.com/ard/rb/bremenvier/live/mp3/128/stream.mp3?sid=25WEOFOXFoFZNBKoAQ0GR3Qi0Rq&token=GrrbbvwQkbRb-iTEZj5-dwESAH8DI9MMtMyd8BVOYPE&tvf=6av_hWuL1hZkMTQxLnJuZGZuay5jb20
+
+#EXTINF:2,Radio 1Live
+https://f121.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?sid=22p6YJKhaj5bXiIT6dq64HF43tI&token=LSLQfHzKwjSC8IbUaXKO9UrtE4GAsv5P0jUQEdGce4U&tvf=DgAXQ-thxBZmMTExLnJuZGZuay5jb20
