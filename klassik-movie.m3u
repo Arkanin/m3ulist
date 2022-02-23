@@ -1,2 +1,10 @@
+#EXTM3U
+
 #EXTINF:0,Radio Klassik Movie
 https://edge68.streams.klassikradio.de/klassikradio-movie
+
+#EXTINF:1,Radio Klassik FeelGood
+https://klassikr.streamabc.net/klr-feelgoodklassik-mp3-192-1640297
+
+#EXTINF:2,Radio Klassik SmoothJazz
+https://klassikr.streamabc.net/klr-smooth-mp3-192-1096057
